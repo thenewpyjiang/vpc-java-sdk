@@ -6,7 +6,7 @@
 [![codecov](https://codecov.io/gh/IBM/vpc-java-sdk/branch/master/graph/badge.svg)](https://codecov.io/gh/IBM/vpc-java-sdk)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-# IBM Cloud VPC Java SDK Version 0.3.0
+# IBM Cloud VPC Java SDK Version 0.3.1
 Java client library to interact with various [IBM Cloud VPC offerings](https://cloud.ibm.com/apidocs/vpc?code=java?).
 
 Disclaimer: this SDK is being released initially as a **pre-release** version.
@@ -44,7 +44,7 @@ The IBM Cloud VPC Java SDK allows developers to programmatically interact with t
 
 Service Name | Artifact Coordinates
 --- | ---
-[VPC](https://cloud.ibm.com/apidocs/vpc?code=java) | com.ibm.cloud:vpc:0.3.0
+[VPC](https://cloud.ibm.com/apidocs/vpc?code=java) | com.ibm.cloud:vpc:0.3.1
 
 ## Prerequisites
 
@@ -55,7 +55,7 @@ Service Name | Artifact Coordinates
 * Java 8 or above.
 
 ## Installation
-The current version of this SDK is: 0.3.0
+The current version of this SDK is: 0.3.1
 
 Each service's artifact coordinates are listed in the table above.
 
@@ -77,13 +77,13 @@ artifact coordinates (group id, artifact id and version) for the service, like t
 <dependency>
     <groupId>com.ibm.cloud</groupId>
     <artifactId>vpc</artifactId>
-    <version>0.3.0</version>
+    <version>0.3.1</version>
 </dependency>
 ```
 
 ##### Gradle
 ```gradle
-'com.ibm.cloud:vpc:0.3.0'
+'com.ibm.cloud:vpc:0.3.1'
 ```
 
 ## Using the SDK
