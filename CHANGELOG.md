@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/IBM/vpc-java-sdk/compare/0.3.0...0.3.1) (2021-01-19)
+
+
+### Bug Fixes
+
+* **release:** Update VPC service to use API version 2021-01-12 ([#12](https://github.com/IBM/vpc-java-sdk/issues/12)) ([f17739e](https://github.com/IBM/vpc-java-sdk/commit/f17739e3362ce1de62415f689a93b2d479e6e0e3))
+
 # [0.3.0](https://github.com/IBM/vpc-java-sdk/compare/0.2.0...0.3.0) (2020-12-21)
 
 
