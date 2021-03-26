@@ -1,3 +1,10 @@
+## [0.4.2](https://github.com/IBM/vpc-java-sdk/compare/0.4.1...0.4.2) (2021-03-26)
+
+
+### Bug Fixes
+
+* **maven:** fix maven build ([#17](https://github.com/IBM/vpc-java-sdk/issues/17)) ([2888f32](https://github.com/IBM/vpc-java-sdk/commit/2888f3244975d168dfb7f5a6031bf04d49d2415f))
+
 ## [0.4.1](https://github.com/IBM/vpc-java-sdk/compare/0.4.0...0.4.1) (2021-03-26)
 
 
