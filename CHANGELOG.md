@@ -1,3 +1,11 @@
+# [0.4.0](https://github.com/IBM/vpc-java-sdk/compare/0.3.1...0.4.0) (2021-03-26)
+
+
+### Features
+
+* **maven:** build artifacts to maven ([#14](https://github.com/IBM/vpc-java-sdk/issues/14)) ([f8cea21](https://github.com/IBM/vpc-java-sdk/commit/f8cea2199f9a29a778aac2552e9a5d5305c544e5))
+* **travis:** Update travis.yml ([#15](https://github.com/IBM/vpc-java-sdk/issues/15)) ([d9818dc](https://github.com/IBM/vpc-java-sdk/commit/d9818dcf4afcf6e491329f48312ac5798e8b2ed5))
+
 ## [0.3.1](https://github.com/IBM/vpc-java-sdk/compare/0.3.0...0.3.1) (2021-01-19)
 
 
