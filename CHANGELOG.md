@@ -1,3 +1,10 @@
+## [0.6.2](https://github.com/IBM/vpc-java-sdk/compare/0.6.1...0.6.2) (2021-09-21)
+
+
+### Bug Fixes
+
+* **maven:** fix push to maven update key ([#30](https://github.com/IBM/vpc-java-sdk/issues/30)) ([c05a856](https://github.com/IBM/vpc-java-sdk/commit/c05a85678b0016364158cbea401bdf7d2313ca1f))
+
 ## [0.6.1](https://github.com/IBM/vpc-java-sdk/compare/0.6.0...0.6.1) (2021-09-20)
 
 
