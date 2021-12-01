@@ -1,3 +1,10 @@
+## [0.8.1](https://github.com/IBM/vpc-java-sdk/compare/0.8.0...0.8.1) (2021-12-01)
+
+
+### Bug Fixes
+
+* **travis:** fix to remove codecov from travis ([#35](https://github.com/IBM/vpc-java-sdk/issues/35)) ([f811b56](https://github.com/IBM/vpc-java-sdk/commit/f811b56be62c172b3b01b364511b2d73a43b8eab))
+
 # [0.8.0](https://github.com/IBM/vpc-java-sdk/compare/0.7.0...0.8.0) (2021-11-30)
 
 
